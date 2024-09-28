@@ -1,0 +1,12 @@
+{
+  "web-test-data": {
+    "userNameToCreate": "UserSara",
+    "passwordToCreate": "Password123"
+  },
+  "api-test-data": {
+    "firstName" : "Sara",
+    "middleName" : "Mohamed",
+    "lastName": "Abdelhameed" ,
+    "email": "sara@dummydomain.com"
+  }
+}
